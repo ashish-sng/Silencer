@@ -8,5 +8,5 @@ Developed using:
   
 To read more about challenges faced while developing this app, plesse refer to [WriteUp](WriteUp.pdf).<br>
 To read the ussage manual and user flow, please refer to [Manual](Manual.pdf).<br><br>
-
-To watch a demo video, please refer to [Link](https://www.linkedin.com/posts/vasu-aggarwal-659b2a19a_reactnative-nodejs-activity-6688436977974484992-rNLB).
+<!-- 
+To watch a demo video, please refer to [Link](https://www.linkedin.com/posts/vasu-aggarwal-659b2a19a_reactnative-nodejs-activity-6688436977974484992-rNLB). -->
